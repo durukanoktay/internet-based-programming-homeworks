@@ -1,0 +1,17 @@
+html, body, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #7d06b4;
+    color: #fff;
+    padding: 10px;
+  }
+footer {
+    background-color: #7d06b4;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
